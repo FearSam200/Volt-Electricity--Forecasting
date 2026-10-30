@@ -96,6 +96,7 @@ This model delivered the best prediction accuracy.
 ✅ Results and Visualizations
 
 The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error. 
+[](./12 Month future electricity forecast.png/.)
 
 
 This means the model can reliably estimate future electricity production requirements while accounting for expected seasonal fluctuations. 
