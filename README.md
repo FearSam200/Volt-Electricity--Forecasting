@@ -9,6 +9,7 @@ This project helps answer that question by analyzing over 30 years of historical
 The goal of this project is not just to build a forecasting model, but to provide a reliable tool that can help energy providers, businesses, and policymakers prepare for future demand. 
 
 🎯 The Problem
+
 Electricity demand changes throughout the year.
 
 Some months require more electricity due to:
@@ -26,6 +27,7 @@ This project aims to predict future electricity production needs using historica
 
 
 📊 The Data
+
 The dataset contains monthly electricity production records collected between 1985 and 2018, giving nearly 33 years of historical information. 
 
 Dataset Snapshot
@@ -100,6 +102,7 @@ This means the model can reliably estimate future electricity production require
 
 
 🔮 Future Forecast
+
 After learning from more than three decades of electricity production history, the model generated forecasts for the next 12 months. 
 The forecasts suggest that:
 
@@ -110,22 +113,28 @@ These forecasts can help organizations make informed planning and operational de
 
 
 💼 Business Value
+
 This forecasting solution can be useful for:
 
 Energy Providers
+
 Plan electricity generation more efficiently.
 
 Utility Companies
+
 Manage infrastructure and resources proactively.
 
 Government Agencies
+
 Support energy policy and long-term planning.
 
 Businesses
+
 Prepare for changes in energy demand and costs.
 
 
 🚀 Key Takeaways
+
 Over 30 years of electricity production data were analyzed. 
 Strong yearly patterns were identified.
 Electricity production generally increased over time.
