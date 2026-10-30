@@ -1,6 +1,7 @@
 ⚡ Electricity Production Forecasting Project
 
 📖 About This Project
+
 Have you ever wondered how electricity companies know how much power will be needed next month or next year?
 
 This project helps answer that question by analyzing over 30 years of historical electricity production data and using it to predict future electricity demand. By understanding past patterns and seasonal trends, we can estimate how much electricity may be needed in the future and support better planning and decision-making. 
@@ -69,6 +70,7 @@ Increased energy consumption
 
 
 📈 How Forecasting Was Performed
+
 The project compared multiple forecasting approaches to determine which provided the most accurate predictions.
 
 Basic Approach
@@ -90,6 +92,7 @@ Historical behavior over time
 This model delivered the best prediction accuracy. 
 
 ✅ Results and Visualizations
+
 The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error. 
 
 
