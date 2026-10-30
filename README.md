@@ -2,9 +2,9 @@
 📖 About This Project
 Have you ever wondered how electricity companies know how much power will be needed next month or next year?
 
-This project helps answer that question by analyzing over 30 years of historical electricity production data and using it to predict future electricity demand. By understanding past patterns and seasonal trends, we can estimate how much electricity may be needed in the future and support better planning and decision-making. 【1-85d980】
+This project helps answer that question by analyzing over 30 years of historical electricity production data and using it to predict future electricity demand. By understanding past patterns and seasonal trends, we can estimate how much electricity may be needed in the future and support better planning and decision-making. 
 
-The goal of this project is not just to build a forecasting model, but to provide a reliable tool that can help energy providers, businesses, and policymakers prepare for future demand. 【1-85d980】
+The goal of this project is not just to build a forecasting model, but to provide a reliable tool that can help energy providers, businesses, and policymakers prepare for future demand. 
 
 🎯 The Problem
 Electricity demand changes throughout the year.
@@ -20,13 +20,13 @@ Without accurate forecasting, electricity providers may:
 Produce too much energy and waste resources
 Produce too little energy and risk shortages
 Face higher operational costs
-This project aims to predict future electricity production needs using historical data. 【1-85d980】
+This project aims to predict future electricity production needs using historical data. 
 
 📊 The Data
-The dataset contains monthly electricity production records collected between 1985 and 2018, giving nearly 33 years of historical information. 【1-85d980】
+The dataset contains monthly electricity production records collected between 1985 and 2018, giving nearly 33 years of historical information. 
 
 Dataset Snapshot
-The original dataset contains a date column and a production index that measures electricity generation. 【1-85d980】
+The original dataset contains a date column and a production index that measures electricity generation. 
 
 🔍 What We Found During Analysis
 1. The Data Was Clean and Reliable
@@ -37,7 +37,7 @@ Before making predictions, the data was checked for:
 ✅ Missing months
 ✅ Unusual or extreme values
 
-The analysis showed that the dataset was complete and suitable for forecasting. 【1-85d980】
+The analysis showed that the dataset was complete and suitable for forecasting. 
 
 2. Electricity Production Follows Seasonal Patterns
 One of the most important discoveries was that electricity production follows a repeating yearly cycle.
@@ -49,7 +49,7 @@ Higher energy demand
 Seasonal peaks
 Other months show lower activity.
 
-This pattern repeats year after year, making forecasting possible. 【1-85d980】
+This pattern repeats year after year, making forecasting possible. 
 
 3. Electricity Production Has Grown Over Time
 When we visualized the data over several decades, we observed a general upward trend.
@@ -67,12 +67,12 @@ The project compared multiple forecasting approaches to determine which provided
 Basic Approach
 The simplest forecasting method assumes future values will behave similarly to recent historical values.
 
-While useful as a starting point, this approach was not sufficiently accurate. 【1-85d980】
+While useful as a starting point, this approach was not sufficiently accurate. 
 
 Improved Seasonal Approach
 A second method incorporated seasonal patterns from previous years.
 
-This significantly improved forecasting performance because it recognized recurring yearly behavior. 【1-85d980】
+This significantly improved forecasting performance because it recognized recurring yearly behavior. 
 
 Advanced Forecasting Model
 Finally, an advanced forecasting model (SARIMA) was trained to learn:
@@ -80,22 +80,20 @@ Finally, an advanced forecasting model (SARIMA) was trained to learn:
 Long-term trends
 Seasonal patterns
 Historical behavior over time
-This model delivered the best prediction accuracy. 【1-85d980】
-
+This model delivered the best prediction accuracy. 
 ✅ Results
-The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error. 【1-85d980】
+The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error. 
 
-This means the model can reliably estimate future electricity production requirements while accounting for expected seasonal fluctuations. 【1-85d980】
+This means the model can reliably estimate future electricity production requirements while accounting for expected seasonal fluctuations. 
 
 🔮 Future Forecast
-After learning from more than three decades of electricity production history, the model generated forecasts for the next 12 months. 【1-85d980】
-
+After learning from more than three decades of electricity production history, the model generated forecasts for the next 12 months. 
 The forecasts suggest that:
 
 Seasonal patterns are expected to continue.
 Higher production periods will likely remain consistent.
 Overall demand remains stable with expected fluctuations throughout the year.
-These forecasts can help organizations make informed planning and operational decisions. 【1-85d980】
+These forecasts can help organizations make informed planning and operational decisions. 
 
 💼 Business Value
 This forecasting solution can be useful for:
@@ -113,10 +111,10 @@ Businesses
 Prepare for changes in energy demand and costs.
 
 🚀 Key Takeaways
-Over 30 years of electricity production data were analyzed. 【1-85d980】
-Strong yearly patterns were identified. 【1-85d980】
-Electricity production generally increased over time. 【1-85d980】
-The forecasting model achieved approximately 97% prediction accuracy. 【1-85d980】
+Over 30 years of electricity production data were analyzed. 
+Strong yearly patterns were identified.
+Electricity production generally increased over time.
+The forecasting model achieved approximately 97% prediction accuracy.
 A 12‑month forecast was successfully generated to support future planning. 【1-85d980】
 
 👨‍💻 Author
