@@ -143,7 +143,7 @@ Over 30 years of electricity production data were analyzed.
 Strong yearly patterns were identified.
 Electricity production generally increased over time.
 The forecasting model achieved approximately 97% prediction accuracy.
-A 12‑month forecast was successfully generated to support future planning. 【1-85d980】
+A 12‑month forecast was successfully generated to support future planning.
 
 
 👨‍💻 Author
