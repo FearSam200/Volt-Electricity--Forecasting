@@ -96,10 +96,8 @@ This model delivered the best prediction accuracy.
 
 ✅ Results and Visualizations
 
-The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error. 
-![12 Month future electricity forecast](./12 Month future electricity forecast.png)
+The final forecasting model was able to predict future electricity production with approximately 97% accuracy, resulting in only about 3% forecasting error.
 <img alt="12 Month future electricity forecast" src="https://github.com/user-attachments/assets/0f7686e1-e14d-485d-b161-2004aea53a06" />
-
 <img alt="Production by month   Year" src="https://github.com/user-attachments/assets/318d3a4e-b511-4fae-a2f3-e6327bef6ad2" />
 <img alt="Sarimax model forecast nd Actual" src="https://github.com/user-attachments/assets/aa6724d9-c7c0-41a8-9dce-61e479c7318c" />
 <img alt="Electric   Gas Supply" src="https://github.com/user-attachments/assets/264ca850-48cb-45fa-84da-84754e89c95e" />
